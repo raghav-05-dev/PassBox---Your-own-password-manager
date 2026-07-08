@@ -17,7 +17,7 @@ const Navbar = () => {
                     </li>
                 </ul> */}
                 <a
-                    href="https://github.com/raghav-05-dev"
+                    href="https://github.com/raghav-05-dev/PassBox---Your-own-password-manager"
                     target="_blank"
                     rel="noopener noreferrer"
                 >
